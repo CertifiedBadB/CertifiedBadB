@@ -4,4 +4,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CertifiedBadB&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
+<a href="<https://www.linkedin.com/in/jordy-huijgens-319406250>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
