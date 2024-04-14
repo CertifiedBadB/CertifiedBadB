@@ -2,7 +2,7 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CertifiedBadB&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CertifiedBadB&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
  
 <a href="[https://www.linkedin.com/in/dhanushkamadushan/](https://nl.linkedin.com/in/jordy-huijgens-319406250)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
