@@ -1,9 +1,2 @@
-<p align="left"><a href="https://laravel.com" target="_blank"><img src="https://media0.giphy.com/media/hrC8eh0xk1vDfQnRKG/giphy.gif?cid=6c09b952it2yn4pr1lf4j3c1vry53nhhkdg6y8pt23jeb3s8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50" alt="Laravel Logo"></a></p>
-
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CertifiedBadB&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
-
-<a href="<https://www.linkedin.com/in/jordy-huijgens-319406250>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CertifiedBadB&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
