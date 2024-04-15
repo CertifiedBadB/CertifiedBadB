@@ -1,3 +1,6 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://media1.tenor.com/m/bzhPO4Ti0bkAAAAC/shiba-inu.gif" width="400" alt="Laravel Logo"></a></p>
+<p align="center">
+
 <p><samp>Hi there! I'm <b>Jordy</b>.</samp></p>
 <p><samp>I'm a <b>full stack developer</b> from Halsteren, <b>The Netherlands</b>.</samp></p>
 <p><samp>I'm passionate about <b>App development</b>, <b>Web Development</b> and <b>Game development</b>.</samp></p>
@@ -15,5 +18,4 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CertifiedBadB&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
